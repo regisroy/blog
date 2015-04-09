@@ -19,7 +19,7 @@ Quelques exemples: Suppression du pointage, de la plupart des réunions, du repo
 Ensuite la démarche d'amélioration continue est généralisée. Par contre elle très souvent le fait des opérateurs. D'ailleurs des trophées sont organisés pour récompenser les meilleures actions et ces actions d'opérateurs sont jugées par des opérateurs.   
 > “Celui qui fait est celui qui sait”  
 
-> “On gagne plus d’argent à faire plus qu’à dépenser moins”  
+> “On gagne plus d’argent à faire plus qu’à dépenser moins”      __(J.F. Zobrist)__
 
 ### Le client  
 Dans cette démarche de bohneur au travail il faut être libre et il faut aussi savoir pour QUI et pour QUOI on travaille. C'est pourquoi le client est au centre de la démarche FAVI.
@@ -33,7 +33,7 @@ Il doit faire en sorte que les choses se fassent toutes seules.
 Une citation de François JULLIEN   
   > “Le bon prince est celui qui, en supprimant les contraintes et les exclusions, permet à chaque existant de s’épanouir à son gré. Son agir, sans agir, qui n’est pas ne rien faire du tout, est une forme de laisser faire pour faire en sorte que cela puisse se faire tout seul”
 
-> Le patron fait de bons ouvriers qui n’ont plus besoin de lui
+> Le patron fait de bons ouvriers qui n’ont plus besoin de lui    __(J.F. Zobrist)__
 
 Quelques conditions semblent nécessaire :   
  - le top manager doit :  
@@ -55,6 +55,9 @@ Il faut __"faire rentrer le Dehors, Dedans"__.
 Donc le commercial qui s'occupe du client a son bureau au milieu de l'atelier avec les opérateurs.  
 Les commandes, remarques, ... des clients arrivent directement à l'atelier et sont gérés directement par les opérateurs.
 
+Il faut aussi expérimenter et laisser une chance au hasard.
+
+> N’améliorer jamais l’existant, passez à côté  __(J.F. Zobrist)__
 
 ### En conclusion  
 Manager par la confiance c'est revenir au Bon Sens et à des choses simples qui parlent à tout le monde.
