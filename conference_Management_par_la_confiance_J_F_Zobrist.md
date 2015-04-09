@@ -14,19 +14,19 @@ Tout d'abord il part d'une idée : "Il n'y a pas de performance sans bonheur".
 Ensuite revenir aux basiques : il faut libérer les productifs des contraintes des improductifs. Donc, tous le monde dans l’entreprise doit créer de la valeur. Toute fonction ne créant pas de valeur doit être supprimée ou réduite au maximum.  
 Les productifs, qui sont-ils ? Ce sont ces personnes, qui s'ils s'arrêtent mettent l'entreprise en apnée. Chez FAVI ce sont les opérateurs, les commerciaux, les études.  
 Pour libérer ces énergies, il manage par la confiance. C'est pourquoi ils ont supprimé **tous** les contrôles. Les opérateurs sont organisés en mini-usines et sont **totalement libres** de fonctionner comme ils veulent (horaires, investissements, machines, organisation, ...).  
-Quelques exemples: Suppression du pointage, de la majorité des réunions, du reporting, des fonctions de contrôle comme le contrôle de gestion, les méthodes, les contremaîtres, les responsables de service.
-
-Ensuite la démarche d'amélioration continue est généralisée. Par contre elle très majotitairement le fait des opérateurs. Des trophées sont organisés pour récompenser les meilleures actions et ces actions d'opérateurs sont jugées par des opérateurs.
+Quelques exemples: Suppression du pointage, de la majorité des réunions, du reporting, des fonctions de contrôle comme le contrôle de gestion, les méthodes, les contremaîtres, les responsables de service.   
+   
+Ensuite la démarche d'amélioration continue est généralisée. Par contre elle très majotitairement le fait des opérateurs. Des trophées sont organisés pour récompenser les meilleures actions et ces actions d'opérateurs sont jugées par des opérateurs.   
 > “Celui qui fait est celui qui sait”
 
 > “On gagne plus d’argent à faire plus qu’à dépenser moins”
 
 ### Le Manager
-Il prône sans faire. il doit faire en sorte que les choses se fassent toutes seules.
-Une citation de François JULLIEN
+Il prône sans faire. il doit faire en sorte que les choses se fassent toutes seules.   
+Une citation de François JULLIEN   
   > “Le bon prince est celui qui, en supprimant les contraintes et les exclusions, permet à chaque existant de s’épanouir à son gré. Son agir, sans agir, qui n’est pas ne rien faire du tout, est une forme de laisser faire pour faire en sorte que cela puisse se faire tout seul”
 
-Quelques conditions semblent être nécessaire :
+Quelques conditions semblent être nécessaire :   
  - le top manager doit être :
    - libre
    - sans ego
