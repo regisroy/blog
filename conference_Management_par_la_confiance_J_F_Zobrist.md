@@ -22,10 +22,10 @@ Ensuite la démarche d'amélioration continue est généralisée. Par contre ell
 > “On gagne plus d’argent à faire plus qu’à dépenser moins”  
 
 ### Le client
-Dans cette démarche de bohneur au travail il faut être libre et il faut savoir pour QUI et pour QUOI on travaille. C'est pourquoi le client est au centre.
-Toutes les actions qui n'ont pas de client (interne ou externe) sont supprimées.
-Leur devise 
-> Par et pour le client
+Dans cette démarche de bohneur au travail il faut être libre et il faut aussi savoir pour QUI et pour QUOI on travaille. C'est pourquoi le client est au centre de la démarche FAVI.
+Toutes les actions menées sont toujours pour un client (interne ou externe).
+Leur devise   
+> Par et pour le client  
 
 ### Le Manager  
 Il prône sans faire.  
@@ -33,13 +33,13 @@ Il doit faire en sorte que les choses se fassent toutes seules.
 Une citation de François JULLIEN   
   > “Le bon prince est celui qui, en supprimant les contraintes et les exclusions, permet à chaque existant de s’épanouir à son gré. Son agir, sans agir, qui n’est pas ne rien faire du tout, est une forme de laisser faire pour faire en sorte que cela puisse se faire tout seul”
 
-Quelques conditions semblent être nécessaire :   
+Quelques conditions semblent nécessaire :   
  - le top manager doit :  
    - être libre  
    - être sans ego  
    - être intuitif
    - donner le pouvoir aux productifs
- - cela doit doit être pérenne et durable
+ - cela doit doit être pérenne
 
 ### Dans le domaine de l'innovation :  
 C'est l'art de trouver des choses qu'on ne cherchait pas.   
@@ -47,10 +47,11 @@ C'est pourquoi il parle de signaux faibles.
 Il faut être capable de passer de l'intuition à l'action très rapidement sans passer par la réflexion. 
 Pour cela il faut __"sortir de sa grotte"__ . Cela signifie qu'il faut aller sans cesse sur le terrain. Il faut sortir de l'entreprise.  
 Exemple: Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.  
+Un des rôles du patron est de récolter les signaux faibles à l'extérieur et de passer à l'action.
 
 Il faut __"faire rentrer le Dehors, Dedans"__.  
 Donc le commercial qui s'occupe du client a son bureau au milieu de l'atelier avec les opérateurs.  
-Les commandes, remarques, ... des clients arrivent directement à l'atelier et sont gérées directement par les opérateurs.
+Les commandes, remarques, ... des clients arrivent directement à l'atelier et sont gérés directement par les opérateurs.
 
 ### En conclusion  
 Manager par la confiance c'est revenir au Bon Sens et à des choses simples qui parlent à tout le monde.
