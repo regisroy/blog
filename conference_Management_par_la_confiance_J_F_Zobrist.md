@@ -34,27 +34,30 @@ Une citation de François JULLIEN
   > “Le bon prince est celui qui, en supprimant les contraintes et les exclusions, permet à chaque existant de s’épanouir à son gré. Son agir, sans agir, qui n’est pas ne rien faire du tout, est une forme de laisser faire pour faire en sorte que cela puisse se faire tout seul”
 
 Quelques conditions semblent être nécessaire :   
- - le top manager doit être :  
-   - libre  
-   - sans ego  
-   - intuitif  
+ - le top manager doit :  
+   - être libre  
+   - être sans ego  
+   - être intuitif
+   - donner le pouvoir aux productifs
+ - cela doit doit être pérenne et durable
 
 ### Dans le domaine de l'innovation :  
 C'est l'art de trouver des choses qu'on ne cherchait pas.   
 C'est pourquoi il parle de signaux faibles. 
 Il faut être capable de passer de l'intuition à l'action très rapidement sans passer par la réflexion. 
-Pour cela il faut "sortir de sa grotte". Cela signifie qu'il faut aller sans cesse sur le terrain. Il faut sortir de l'entreprise.  
-Exemple: Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.
+Pour cela il faut __"sortir de sa grotte"__ . Cela signifie qu'il faut aller sans cesse sur le terrain. Il faut sortir de l'entreprise.  
+Exemple: Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.  
 
-Il faut "faire rentrer le Dehors, Dedans".  
-Donc le commercial qui s'occupe du client à son bureau au milieu de l'atelier avec les opérateurs. Les commandes, remarques des arrivent directement à l'atelier et sont gérées directement par les opérateurs.
+Il faut __"faire rentrer le Dehors, Dedans"__.  
+Donc le commercial qui s'occupe du client a son bureau au milieu de l'atelier avec les opérateurs.  
+Les commandes, remarques, ... des clients arrivent directement à l'atelier et sont gérées directement par les opérateurs.
 
-### Enfin en conclusion
+### En conclusion  
 Manager par la confiance c'est revenir au Bon Sens et à des choses simples qui parlent à tout le monde.
 Une raison d’être : le rêve partagé 
-  “rester dans le village”
+  __“rester dans le village”__
 Revenir sur des valeurs des valeurs de base :
-  “Ce sont des emplois créés”
+  __“Ce sont des emplois créés”__
 
 La cohérence se fait par des valeurs basées sur un essentiel, le partage :
  - Partage d’un rêve commun : rester, vivre et travailler dans notre village d’Hallencourt
