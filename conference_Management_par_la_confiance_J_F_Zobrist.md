@@ -67,6 +67,6 @@ Maintenant J.F. Zobrist appuie bien qu'il n'y a pas de modèle. Lui apporte son 
 
 
 Quelques références: 
- - J.F. Zobrist à écrit 3 livres disponibles en pdf et sur le site de [FAVI](http://favi.com) est mis à disposition beaucoup de fiches explicatives.
- - Une vidéo tournée par France 3 en 2009 sur FAVI.
+ - J.F. Zobrist à écrit [3 livres disponibles en pdf](http://favi.com/managf.php) et sur le site de [FAVI](http://favi.com) est mis à disposition beaucoup de [fiches explicatives](http://favi.com/manago.php).
+ - Une [vidéo tournée par France 3](https://www.youtube.com/watch?v=pBTdhwXpKOA) en 2009 sur FAVI.
  - [Isaac Getz & Brian M. Carney sur les entreprises libérées](http://liberteetcie.com/2013/02/edition-poche-de-liberte-cie/)
