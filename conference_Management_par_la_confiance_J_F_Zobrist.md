@@ -16,12 +16,12 @@ Les productifs, qui sont-ils ? Ce sont ces personnes, qui s'ils s'arrêtent mett
 Pour libérer ces énergies, il manage par la confiance. C'est pourquoi ils ont supprimé **tous** les contrôles. Les opérateurs sont organisés en mini-usines et sont **totalement libres** de fonctionner comme ils veulent (horaires, investissements, machines, organisation, ...).  
 Quelques exemples: Suppression du pointage, de la plupart des réunions, du reporting, des fonctions de contrôle comme le contrôle de gestion, les méthodes, les contremaîtres, les responsables de service.   
    
-Ensuite la démarche d'amélioration continue est généralisée. Par contre elle très majotitairement le fait des opérateurs. Des trophées sont organisés pour récompenser les meilleures actions et ces actions d'opérateurs sont jugées par des opérateurs.   
+Ensuite la démarche d'amélioration continue est généralisée. Par contre elle très souvent le fait des opérateurs. D'ailleurs des trophées sont organisés pour récompenser les meilleures actions et ces actions d'opérateurs sont jugées par des opérateurs.   
 > “Celui qui fait est celui qui sait”  
 
 > “On gagne plus d’argent à faire plus qu’à dépenser moins”  
 
-### Le client
+### Le client  
 Dans cette démarche de bohneur au travail il faut être libre et il faut aussi savoir pour QUI et pour QUOI on travaille. C'est pourquoi le client est au centre de la démarche FAVI.
 Toutes les actions menées sont toujours pour un client (interne ou externe).
 Leur devise   
@@ -32,6 +32,8 @@ Il prône sans faire.
 Il doit faire en sorte que les choses se fassent toutes seules.    
 Une citation de François JULLIEN   
   > “Le bon prince est celui qui, en supprimant les contraintes et les exclusions, permet à chaque existant de s’épanouir à son gré. Son agir, sans agir, qui n’est pas ne rien faire du tout, est une forme de laisser faire pour faire en sorte que cela puisse se faire tout seul”
+
+> Le patron fait de bons ouvriers qui n’ont plus besoin de lui
 
 Quelques conditions semblent nécessaire :   
  - le top manager doit :  
@@ -52,6 +54,7 @@ Un des rôles du patron est de récolter les signaux faibles à l'extérieur et 
 Il faut __"faire rentrer le Dehors, Dedans"__.  
 Donc le commercial qui s'occupe du client a son bureau au milieu de l'atelier avec les opérateurs.  
 Les commandes, remarques, ... des clients arrivent directement à l'atelier et sont gérés directement par les opérateurs.
+
 
 ### En conclusion  
 Manager par la confiance c'est revenir au Bon Sens et à des choses simples qui parlent à tout le monde.
