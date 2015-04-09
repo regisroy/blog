@@ -30,8 +30,8 @@ Leur devise
 ### Le Manager  
 Il prône sans faire.  
 Il doit faire en sorte que les choses se fassent toutes seules.    
-Une citation de François JULLIEN   
   > “Le bon prince est celui qui, en supprimant les contraintes et les exclusions, permet à chaque existant de s’épanouir à son gré. Son agir, sans agir, qui n’est pas ne rien faire du tout, est une forme de laisser faire pour faire en sorte que cela puisse se faire tout seul”
+  *(François JULLIEN)*
 
 > Le patron fait de bons ouvriers qui n’ont plus besoin de lui    *(J.F. Zobrist)*
 
