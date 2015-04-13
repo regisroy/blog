@@ -1,3 +1,5 @@
+![alt text](http://www.point-fort.com/images/Entreprise/Favi%20zobrist.jpg "J.F Zobrist - Par let pour le client")
+
 # Le management par la confiance
 
 Jeudi 2 avril avait lieu une conférence à [l'AIA de L'ENSAM](http://www.aiaensam.com) à Paris sur **le management par la confiance**.
