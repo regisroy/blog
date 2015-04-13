@@ -81,7 +81,10 @@ Maintenant J.F. Zobrist appuie bien qu'il n'y a pas de modèle. Lui apporte son 
 
 
 
-Quelques références: 
+Quelques références données lors de la conférence: 
  - J.F. Zobrist à écrit [3 livres disponibles en pdf](http://favi.com/managf.php) et sur le site de [FAVI](http://favi.com) est mis à disposition beaucoup de [fiches explicatives](http://favi.com/manago.php).
  - Une [vidéo tournée par France 3](https://www.youtube.com/watch?v=pBTdhwXpKOA) en 2009 sur FAVI.
+ - [L’essentiel du management par la confiance](http://www.favi.com/download.php?fich=management/systeme/management_par_la_confiance_r.pdf)
  - [Isaac Getz & Brian M. Carney sur les entreprises libérées](http://liberteetcie.com/2013/02/edition-poche-de-liberte-cie/)
+ - livre [“Barenton confiseur” (Propos de O. L. Barenton, confiseur]( http://www.babelio.com/livres/Detoeuf-Propos-de-OL-Barenton-confiseur/144043 )
+
