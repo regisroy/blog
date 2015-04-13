@@ -10,7 +10,7 @@ Cette conférence était donnée par **J.F. Zobrist**.
 
 Cette petite entreprise de fonderie est passée de 70 à près de 500 personnes. Elle a été pionnière dans la mise en place de démarches qualité en France et en Europe. C'est complètement renouvelée en terme de produits et de clients. Est devenue leader dans le domaine des fourchettes de boîte de vitesse en Europe. Innove de façon insolente dans des domaines totalement inattendus comme les matériaux antibactériens. Et enfin obtient des résultats financiers très bons.  
   
-Comment cela est-ce possible ? Et bien en libérant toutes les énergies.   
+Comment cela est-ce possible ? Et bien en libérant **toutes** les énergies.   
   
 ### Chez FAVI, on manage par la la confiance.   
 Tout d'abord il part d'une idée : "Il n'y a pas de performance sans bonheur".  
@@ -65,7 +65,7 @@ Il faut aussi expérimenter et laisser une chance au hasard.
 > N’améliorer jamais l’existant, passez à côté  *(J.F. Zobrist)*
 
 ### En conclusion  
-Manager par la confiance c'est revenir au Bon Sens et à des choses simples qui parlent à tout le monde.
+Manager par la confiance, c'est revenir au Bon Sens et à des choses simples qui parlent à tout le monde.
 Une raison d’être : le rêve partagé 
   __“rester dans le village”__
 Revenir sur des valeurs des valeurs de base :
@@ -77,7 +77,7 @@ La cohérence se fait par des valeurs basées sur un essentiel, le partage :
  - Partage de deux valeurs communes : l’amour de mon client, et l’homme est bon
  - Partage d’une unité de mesure du progrès commune : le nombre de pièces bonnes par heure payée.
 
-Maintenant J.F. Zobrist appuie bien qu'il n'y a pas de modèle. Lui apporte son témoignage. A vous maintenant de créer votre modèle pour votre entreprise.
+Maintenant J.F. Zobrist appuie bien qu'il n'y a pas de modèle. Lui apporte son témoignage. A vous maintenant de créer **votre** modèle pour votre entreprise.
 
 
 
