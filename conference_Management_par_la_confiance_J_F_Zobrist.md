@@ -14,8 +14,8 @@ Comment cela est-ce possible ? Et bien en libérant **toutes** les énergies.
   
 ### Chez FAVI, on manage par la la confiance.   
 Tout d'abord il part d'une idée : "Il n'y a pas de performance sans bonheur".  
-Ensuite revenir aux basiques : **il faut libérer les productifs des contraintes des improductifs**. Donc, **tous le monde** dans l’entreprise doit créer de la valeur. Toute fonction ne créant pas de valeur doit être supprimée.  
-Les productifs, qui sont-ils ? Ce sont ces personnes, qui s'ils s'arrêtent mettent l'entreprise en apnée. Chez FAVI ce sont les opérateurs. Et ceux qui préparent demain, les commerciaux, les études.  Ce n'est pas le patron qui paie les opérateurs, mais les opérateurs qui paien t la patron.
+Ensuite revenir aux basiques : **il faut libérer les productifs des contraintes des improductifs**. Donc, **tout le monde** dans l’entreprise doit créer de la valeur. Toute fonction ne créant pas de valeur doit être supprimée.  
+Les productifs, qui sont-ils ? Ce sont ces personnes, qui s'ils s'arrêtent mettent l'entreprise en apnée. Chez FAVI, ce sont les opérateurs. Et ceux qui préparent demain, les commerciaux, les études...  Ce n'est pas le patron qui paie les opérateurs, mais les opérateurs qui paient la patron.
 Pour libérer ces énergies, il manage par la confiance. C'est pourquoi ils ont supprimé **tous** les contrôles. Les opérateurs sont organisés en mini-usines et sont **totalement libres** de fonctionner comme ils veulent (horaires, investissements, machines, organisation, ...).  
 Quelques exemples: Suppression du pointage, des réunions formelles, du reporting, des fonctions de contrôle comme le contrôle de gestion, les méthodes, les contremaîtres, les responsables de service.   
    
@@ -30,7 +30,7 @@ Leur devise
 > Par et pour le client   
 
 Toutes les actions menées sont toujours pour un client (interne ou externe).
-Par exemple il y a un commercial dédié par client qui connait les problématiques du client, le contexte du client.
+Par exemple, il y a un commercial dédié par client qui connait les problématiques du client ainsi que son contexte.
 
 ### Le Patron  
 Il prône sans organiser.  
