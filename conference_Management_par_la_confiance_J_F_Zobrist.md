@@ -50,7 +50,7 @@ Quelques conditions semblent nécessaires :
 
 ### Dans le domaine de l'innovation :  
 C'est l'art de trouver des choses qu'on ne cherchait pas.   
-C'est pourquoi il parle de signaux faibles. (cf. [Shoji Shiba](http://fr.wikipedia.org/wiki/Shoji_Shiba))
+C'est pourquoi il parle de signaux faibles. (cf. [Shoji Shiba](http://fr.wikipedia.org/wiki/Shoji_Shiba))  
 Il faut être capable de passer de l'intuition à l'action très rapidement sans passer par la réflexion. 
 Pour cela il faut __"sortir de sa grotte"__ . Cela signifie qu'il faut aller sans cesse sur le terrain. Il faut sortir de l'entreprise.  
 Exemple: Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.  
