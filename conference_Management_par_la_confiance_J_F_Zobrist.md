@@ -8,38 +8,39 @@ Cette conférence était donnée par **J.F. Zobrist**.
 
 ### Le Management par la confiance  
 
-Cette petite entreprise de fonderie est passée de 70 à près de 500 personnes. Elle a été pionnière dans la mise en place de démarches qualité en France et en Europe. C'est complètement renouvelée en terme de produits et de clients. Est devenue leader dans le domaine des fourchettes de boîte de vitesse en Europe. Innove de façon insolente dans des domaines totalement inattendus comme les matériaux antibactériens. Et enfin obtient des résultats financiers très bons.  
+Cette petite entreprise de fonderie est passée de 70 à près de 500 personnes. Elle a été pionnière dans la mise en place de démarches qualité en France et en Europe. Elle s'est complètement renouvelée en terme de produits et de clients. Est devenue leader dans le domaine des fourchettes de boîte de vitesse en Europe. Innove de façon insolente dans des domaines totalement inattendus comme les matériaux antibactériens. Et enfin obtient des résultats financiers très bons.  
   
 Comment cela est-ce possible ? Et bien en libérant **toutes** les énergies.   
   
 ### Chez FAVI, on manage par la la confiance.   
 Tout d'abord il part d'une idée : "Il n'y a pas de performance sans bonheur".  
-Ensuite revenir aux basiques : **il faut libérer les productifs des contraintes des improductifs**. Donc, tous le monde dans l’entreprise doit créer de la valeur. Toute fonction ne créant pas de valeur doit être supprimée ou réduite au maximum.  
-Les productifs, qui sont-ils ? Ce sont ces personnes, qui s'ils s'arrêtent mettent l'entreprise en apnée. Chez FAVI ce sont les opérateurs. Et ceux qui préparent demain les commerciaux, les études.  
+Ensuite revenir aux basiques : **il faut libérer les productifs des contraintes des improductifs**. Donc, **tous le monde** dans l’entreprise doit créer de la valeur. Toute fonction ne créant pas de valeur doit être supprimée.  
+Les productifs, qui sont-ils ? Ce sont ces personnes, qui s'ils s'arrêtent mettent l'entreprise en apnée. Chez FAVI ce sont les opérateurs. Et ceux qui préparent demain, les commerciaux, les études.  Ce n'est pas le patron qui paie les opérateurs, mais les opérateurs qui paien t la patron.
 Pour libérer ces énergies, il manage par la confiance. C'est pourquoi ils ont supprimé **tous** les contrôles. Les opérateurs sont organisés en mini-usines et sont **totalement libres** de fonctionner comme ils veulent (horaires, investissements, machines, organisation, ...).  
 Quelques exemples: Suppression du pointage, des réunions formelles, du reporting, des fonctions de contrôle comme le contrôle de gestion, les méthodes, les contremaîtres, les responsables de service.   
    
-Ensuite la démarche d'amélioration continue est généralisée. Par contre elle très souvent le fait des opérateurs. D'ailleurs des trophées sont organisés pour récompenser les meilleures actions. Et ces actions d'opérateurs sont jugées par des opérateurs.   
+Ensuite la démarche d'amélioration continue est généralisée. Et elle très souvent le fait des opérateurs eux-même. D'ailleurs des trophées sont organisés pour récompenser les meilleures actions. Et ces actions d'opérateurs sont jugées par des opérateurs.   
 > “Celui qui fait est celui qui sait”  
 
 > “On gagne plus d’argent à faire plus qu’à dépenser moins”      *(J.F. Zobrist)*
 
 ### Le client  
-Dans cette démarche de bohneur au travail il faut être libre et il faut aussi savoir pour QUI et pour QUOI on travaille. C'est pourquoi le client est au centre de la démarche FAVI.
+Dans cette démarche de bohneur au travail il faut être libre et il faut aussi savoir pour QUI puis pour QUOI on travaille. C'est pourquoi le client est au centre de la démarche FAVI.
+Leur devise   
+> Par et pour le client   
+
 Toutes les actions menées sont toujours pour un client (interne ou externe).
 Par exemple il y a un commercial dédié par client qui connait les problématiques du client, le contexte du client.
-Leur devise   
-> Par et pour le client  
 
 ### Le Patron  
-Il prône sans faire.  
+Il prône sans organiser.  
 Il doit faire en sorte que les choses se fassent toutes seules.    
   > “Le bon prince est celui qui, en supprimant les contraintes et les exclusions, permet à chaque existant de s’épanouir à son gré. Son agir, sans agir, qui n’est pas ne rien faire du tout, est une forme de laisser faire pour faire en sorte que cela puisse se faire tout seul”
   *(François JULLIEN)*
 
 > Le patron fait de bons ouvriers qui n’ont plus besoin de lui    *(J.F. Zobrist)*
 
-Quelques conditions semblent nécessaires :   
+Quelques conditions semblent nécessaires  
   - est toujours le fait d’une tête seule
   - est libre ou manœuvre dans son espace de liberté
   - n'a pas d'égo. Abandonne son bureau, sa voiture de fonction, tous les attributs de sa fonction
@@ -49,21 +50,21 @@ Quelques conditions semblent nécessaires :
   - innove « en allant » par écoute des productifs
   - n’a pas de notion du risque
 
-### Dans le domaine de l'innovation :  
+### Dans le domaine de l'innovation  
 C'est l'art de trouver des choses qu'on ne cherchait pas.   
 C'est pourquoi il parle de signaux faibles. (cf. [Shoji Shiba](http://fr.wikipedia.org/wiki/Shoji_Shiba))  
 Il faut être capable de passer de l'intuition à l'action très rapidement sans passer par la réflexion. 
 Pour cela il faut __"sortir de sa grotte"__ . Cela signifie qu'il faut aller sans cesse sur le terrain. Il faut sortir de l'entreprise.  
 Exemples: Les opérateurs changent de poste toutes les heures. Les opérateurs vont chez les clients. Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.  
-Un des rôles du patron est de récolter les signaux faibles à l'extérieur et de passer à l'action.
+Un des rôles du patron est de récolter les signaux faibles à l'extérieur et de passer à l'action.  
 
-Il faut __"faire rentrer le Dehors, Dedans"__.  
-Donc le commercial qui s'occupe du client a son bureau au milieu de l'atelier avec les opérateurs.  
-Les commandes, remarques, ... des clients arrivent directement à l'atelier et sont gérés directement par les opérateurs.
+Il faut __"faire rentrer le Dehors, Dedans"__.    
+Donc le commercial qui s'occupe du client a son bureau au milieu de l'atelier avec les opérateurs.   
+Les commandes, remarques, ... des clients arrivent directement à l'atelier et sont gérés directement par les opérateurs.  
 
-Il faut aussi expérimenter et laisser une chance au hasard.
+Il faut aussi expérimenter et laisser une chance au hasard.  
 
-> N’améliorer jamais l’existant, passez à côté  *(J.F. Zobrist)*
+> N’améliorer jamais l’existant, passez à côté  *(J.F. Zobrist)*  
 
 ### En conclusion  
 Manager par la confiance, c'est revenir au Bon Sens et à des choses simples qui parlent à tout le monde.
