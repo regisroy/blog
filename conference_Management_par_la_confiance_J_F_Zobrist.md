@@ -38,7 +38,7 @@ Il doit faire en sorte que les choses se fassent toutes seules.
 
 > Le patron fait de bons ouvriers qui n’ont plus besoin de lui    *(J.F. Zobrist)*
 
-Quelques conditions semblent nécessaire :   
+Quelques conditions semblent nécessaires :   
   - est toujours le fait d’une tête seule
   - est libre ou manœuvre dans son espace de liberté
   - n'a pas d'égo. Abandonne son bureau, sa voiture de fonction, tous les attributs de sa fonction
@@ -50,7 +50,7 @@ Quelques conditions semblent nécessaire :
 
 ### Dans le domaine de l'innovation :  
 C'est l'art de trouver des choses qu'on ne cherchait pas.   
-C'est pourquoi il parle de signaux faibles. 
+C'est pourquoi il parle de signaux faibles. (cf. [Shoji Shiba](http://fr.wikipedia.org/wiki/Shoji_Shiba))
 Il faut être capable de passer de l'intuition à l'action très rapidement sans passer par la réflexion. 
 Pour cela il faut __"sortir de sa grotte"__ . Cela signifie qu'il faut aller sans cesse sur le terrain. Il faut sortir de l'entreprise.  
 Exemple: Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.  
