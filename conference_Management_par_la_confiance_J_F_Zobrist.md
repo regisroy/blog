@@ -27,6 +27,7 @@ Ensuite la démarche d'amélioration continue est généralisée. Par contre ell
 ### Le client  
 Dans cette démarche de bohneur au travail il faut être libre et il faut aussi savoir pour QUI et pour QUOI on travaille. C'est pourquoi le client est au centre de la démarche FAVI.
 Toutes les actions menées sont toujours pour un client (interne ou externe).
+Par exemple il y a un commercial dédié par client qui connait les problématiques du client, le contexte du client.
 Leur devise   
 > Par et pour le client  
 
@@ -53,7 +54,7 @@ C'est l'art de trouver des choses qu'on ne cherchait pas.
 C'est pourquoi il parle de signaux faibles. (cf. [Shoji Shiba](http://fr.wikipedia.org/wiki/Shoji_Shiba))  
 Il faut être capable de passer de l'intuition à l'action très rapidement sans passer par la réflexion. 
 Pour cela il faut __"sortir de sa grotte"__ . Cela signifie qu'il faut aller sans cesse sur le terrain. Il faut sortir de l'entreprise.  
-Exemple: Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.  
+Exemples: Les opérateurs changent de poste toutes les heures. Les opérateurs vont chez les clients. Tous les 2 ans, une vingtaine d'opérateurs vont en voyage au Japon.  
 Un des rôles du patron est de récolter les signaux faibles à l'extérieur et de passer à l'action.
 
 Il faut __"faire rentrer le Dehors, Dedans"__.  
